@@ -1,4 +1,4 @@
 # apnajava-dev
 this is my first Github repository.
 <br>
-author - Omkar Wani.
+author - Omkar Wani. (developr)
